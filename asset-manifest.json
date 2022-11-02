@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/starjin1.github.io/myProfile/static/css/main.2fe0c176.css",
-    "main.js": "/starjin1.github.io/myProfile/static/js/main.e1c7c96c.js",
+    "main.js": "/starjin1.github.io/myProfile/static/js/main.902eecb1.js",
     "static/media/me.jpg": "/starjin1.github.io/myProfile/static/media/me.532684d3c26c9c246225.jpg",
     "static/media/mainlogo.png": "/starjin1.github.io/myProfile/static/media/mainlogo.9d6908412bca2d3b85ab.png",
     "static/media/my_img.jpg": "/starjin1.github.io/myProfile/static/media/my_img.a806d36295e8c39a23ac.jpg",
@@ -17,10 +17,10 @@
     "static/media/load.jpg": "/starjin1.github.io/myProfile/static/media/load.02411d8e425fa2dcfc8a.jpg",
     "index.html": "/starjin1.github.io/myProfile/index.html",
     "main.2fe0c176.css.map": "/starjin1.github.io/myProfile/static/css/main.2fe0c176.css.map",
-    "main.e1c7c96c.js.map": "/starjin1.github.io/myProfile/static/js/main.e1c7c96c.js.map"
+    "main.902eecb1.js.map": "/starjin1.github.io/myProfile/static/js/main.902eecb1.js.map"
   },
   "entrypoints": [
     "static/css/main.2fe0c176.css",
-    "static/js/main.e1c7c96c.js"
+    "static/js/main.902eecb1.js"
   ]
 }
