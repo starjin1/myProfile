@@ -1,0 +1,38 @@
+nav {
+    background-color: rgba(0, 0, 0, 0.3);
+    width: max-content;
+    padding: 0.5rem 1.7rem;
+    z-index: 2;
+    position: fixed;
+    display: block;
+    left: 50%;
+    bottom: 2rem;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 1.2rem;
+    border-radius: 3rem;
+    backdrop-filter: blur(15px);
+    align-items: center;
+}
+
+nav .a_link {
+    padding: 0.5rem;
+    background: transparent;
+    color: var(--color-light);
+    font-size: 1rem;
+    transition: var(--transition);
+}
+
+nav > .link_icon {
+    font-size: 1.2rem;
+
+}
+
+nav .a_link:hover {
+    color: var(--color-primary);
+}
+
+
+
+
+
