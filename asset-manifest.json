@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/starjin1.github.io/myProfile/static/css/main.2fe0c176.css",
+    "main.js": "/starjin1.github.io/myProfile/static/js/main.e1c7c96c.js",
+    "static/media/me.jpg": "/starjin1.github.io/myProfile/static/media/me.532684d3c26c9c246225.jpg",
+    "static/media/mainlogo.png": "/starjin1.github.io/myProfile/static/media/mainlogo.9d6908412bca2d3b85ab.png",
+    "static/media/my_img.jpg": "/starjin1.github.io/myProfile/static/media/my_img.a806d36295e8c39a23ac.jpg",
+    "static/media/database.png": "/starjin1.github.io/myProfile/static/media/database.881e57efcac08a34ccd5.png",
+    "static/media/find_load.jpg": "/starjin1.github.io/myProfile/static/media/find_load.54c940fd455cc856d976.jpg",
+    "static/media/first.pdf": "/starjin1.github.io/myProfile/static/media/first.3e5fd6c6862cac3a71e4.pdf",
+    "static/media/main1.png": "/starjin1.github.io/myProfile/static/media/main1.4c0d590bab06c73013f1.png",
+    "static/media/load1.jpg": "/starjin1.github.io/myProfile/static/media/load1.e1d9fcea7e6602aeff9b.jpg",
+    "static/media/android_logo.png": "/starjin1.github.io/myProfile/static/media/android_logo.554010a1e1fe637c1f47.png",
+    "static/media/diagram.png": "/starjin1.github.io/myProfile/static/media/diagram.20d81bae091bd734893f.png",
+    "static/media/mysql.png": "/starjin1.github.io/myProfile/static/media/mysql.42e12e01ff9cddb1ecae.png",
+    "static/media/main_ui.jpg": "/starjin1.github.io/myProfile/static/media/main_ui.f05c131dc94a958b9e00.jpg",
+    "static/media/load.jpg": "/starjin1.github.io/myProfile/static/media/load.02411d8e425fa2dcfc8a.jpg",
+    "index.html": "/starjin1.github.io/myProfile/index.html",
+    "main.2fe0c176.css.map": "/starjin1.github.io/myProfile/static/css/main.2fe0c176.css.map",
+    "main.e1c7c96c.js.map": "/starjin1.github.io/myProfile/static/js/main.e1c7c96c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fe0c176.css",
+    "static/js/main.e1c7c96c.js"
+  ]
+}
