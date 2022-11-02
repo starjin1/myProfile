@@ -32,7 +32,7 @@ const About = () => {
                         자신이 맡은 일에 책임감을 느끼고 항상 적극적인 태도를 보이는 매일매일 성장하는 
                         개발자가 될 것입니다. 
                     </p>
-                    <a href="myProfile/#Contact" className="btn btn-primary">Let's Talk</a>
+                    {/* <a href="myProfile/#Contact" className="btn btn-primary">Let's Talk</a> */}
                 </div>
             </div>
         </section>
