@@ -10,7 +10,7 @@ import Project_sub03 from './project_final_component/Project_subbox03';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
     <ScrollTop />
     <Routes>
         <Route path='/' element={<App />}></Route>
