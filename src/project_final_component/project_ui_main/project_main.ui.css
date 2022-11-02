@@ -1,0 +1,9 @@
+
+.ui_conent_sub {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+.display_none {
+    opacity: 0;
+}

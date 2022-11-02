@@ -1,0 +1,12 @@
+.contact {
+    background: var(--color-bg-variant);
+    padding: 1rem 0;
+    border: 1px solid transparent;
+}
+.contact > h1 {
+    margin-bottom: 1rem;
+} 
+.contact > h3 {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+}

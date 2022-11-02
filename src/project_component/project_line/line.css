@@ -1,0 +1,70 @@
+#line {
+    margin-top: 2rem;
+}
+.project_box {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: var(--container-width-md);
+    gap: 1rem;
+}
+.project_contentbox > h3 {
+    margin: 0.5rem 0 1.5rem;
+}
+.project_imgBox {
+    width: 100%;
+    background: var(--color-bg-variant);
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    border: 1px solid transparent;
+    border-radius: 1rem;
+    transition: var(--transition);
+}
+.project_imgBox:hover {
+    background: transparent;
+    border-color:var(--color-primary-variant) ;
+    cursor: default;
+}
+
+.project_imgBox > img {
+    width: 30%;
+    display: inline-block;
+    margin-top: 0.5rem;
+}
+
+.project_detailBox {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2rem;
+
+}
+.project_subBox {
+    text-align: center;
+    background-color: var(--color-bg-variant);
+    padding: 1.5rem 2rem ;
+    border: 1px solid transparent;
+    border-radius: 1rem;
+    align-self: center;
+    transition: var(--transition);
+}
+.project_icon {
+    font-size: 1.5rem;
+}
+.detail_text {
+    text-align: start;
+    margin-top: 0.5rem;
+}
+
+.project_subBox:hover {
+    background: transparent;
+    border-color:var(--color-primary-variant) ;
+    cursor: default;
+}
+.slider_btn {
+    font-size: 2.5rem;
+    position: absolute;
+    top: 1rem;
+    right: 2rem;
+    color: var(--color-light);
+
+}
