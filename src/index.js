@@ -13,7 +13,7 @@ root.render(
     <HashRouter>
     <ScrollTop />
     <Routes>
-        <Route path='/' element={<App />}></Route>
+        <Route path='/myProfile' element={<App />}></Route>
         <Route path='/project_sub' element={<Project_sub />}></Route>
         <Route path="/project_sub02" element={<Project_sub02 />}></Route>
         <Route path="/Project_sub03" element={<Project_sub03 />}></Route>
